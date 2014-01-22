@@ -1,7 +1,7 @@
 CYA
 ===
-
+#Description
 Copy YouTube Annotations - Chrome and Firefox Version
-
 ===
-Test
+#Information
+under construction
